@@ -7,3 +7,8 @@ Input:
    r, annual rate of interest
 Output:
    simple interest = p * t * r
+
+
+
+this extra line is to make change between main branch and bug-fix-typo branch to make them available to merge
+
